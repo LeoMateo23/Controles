@@ -62,7 +62,7 @@ public class MenuApp extends Application {
 
         // Creating the scene and setting the stage
         Scene scene = new Scene(root, 800, 600);
-        primaryStage.setTitle("Menu Application");
+        primaryStage.setTitle(u Application");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
@@ -71,3 +71,11 @@ public class MenuApp extends Application {
         launch(args);
     }
 }
+
+
+
+
+
+
+
+
